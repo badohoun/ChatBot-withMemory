@@ -1,0 +1,7 @@
+Dans ce repo , nous abordons le processus complexe de création d'un chatbot qui interagit de manière transparente avec les utilisateurs et répond intelligemment à leurs requêtes.
+
+Pour jeter les bases de notre chatbot, nous utilisons Langchain, un cadre de prétraitement de données polyvalent qui facilite la gestion efficace des données linguistiques. En tirant parti des fonctionnalités puissantes de Lang Chain telles que les chaînes, la mémoire et les transformations de données, nous garantissons une base solide et structurée pour les fonctionnalités de notre chatbot.
+
+Mais ce n'est pas tout : nous vous présentons Deep Lake, une base de données vectorielles révolutionnaire conçue pour exceller dans les données multimodales. Avec Deeplake, nous améliorons les capacités de notre chatbot en intégrant diverses sources de données, lui permettant de traiter et de répondre à un large éventail d'entrées, notamment du texte, des images, de l'audio, etc. Cette intégration permet à notre chatbot d'offrir une expérience utilisateur plus riche et plus personnalisée.
+
+Que vous soyez un développeur expérimenté ou que vous commenciez tout juste votre parcours dans le monde du développement de chatbot, ce didacticiel fournit un guide accessible et complet pour créer un chatbot puissant et polyvalent. 
