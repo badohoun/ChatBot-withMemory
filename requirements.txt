@@ -1,0 +1,14 @@
+python-dotenv
+langchain
+openai
+unstructured
+deeplake
+tabulate
+pdf2image
+streamlit
+streamlit_chat
+tiktoken
+bs4
+requests
+pypdf
+unstructured[pdf]
