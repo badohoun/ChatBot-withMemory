@@ -43,6 +43,7 @@ def embeddings_store():
         dataset_path=f"hub://espero04/text_embedding",
         read_only=True,
         embedding=embeddings,
+        verbose=True
     )
     return db
 
@@ -98,6 +99,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
 
 
 
